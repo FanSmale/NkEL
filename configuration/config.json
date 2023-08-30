@@ -1,0 +1,189 @@
+{
+  "nkel": {
+    "20NG": {
+      "fileName": "../data/20NG.mat",
+      "outputFileName": "../results/20NG.mat",
+      "kLabel": 4,
+      "hiddenLayerNumNodes": [
+        32,
+        32
+      ],
+      "loops": 900
+    },
+    "Art": {
+      "fileName": "../data/Art.mat",
+      "outputFileName": "../results/Art.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        16
+      ],
+      "loops": 580
+    },
+    "Birds": {
+      "fileName": "../data/Birds.mat",
+      "outputFileName": "../results/Birds.mat",
+      "kLabel": 2,
+      "hiddenLayerNumNodes": [
+        64
+      ],
+      "loops": 200
+    },
+    "CAL500": {
+      "fileName": "../data/CAL500.mat",
+      "outputFileName": "../results/CAL500.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        32,
+        8
+      ],
+      "loops": 390
+    },
+    "CHD_49": {
+      "fileName": "../data/CHD_49.mat",
+      "outputFileName": "../results/CHD_49.mat",
+      "kLabel": 4,
+      "hiddenLayerNumNodes": [
+        32,
+        64
+      ],
+      "loops": 250
+    },
+    "Emotions": {
+      "fileName": "../data/Emotions.mat",
+      "outputFileName": "../results/Emotions.mat",
+      "kLabel": 2,
+      "hiddenLayerNumNodes": [
+        16
+      ],
+      "loops": 300
+    },
+    "Enron": {
+      "fileName": "../data/Enron.mat",
+      "outputFileName": "../results/Enron.mat",
+      "kLabel": 4,
+      "hiddenLayerNumNodes": [
+        64
+      ],
+      "loops": 280
+    },
+    "Flags": {
+      "fileName": "../data/Flags.mat",
+      "outputFileName": "../results/Flags.mat",
+      "kLabel": 4,
+      "hiddenLayerNumNodes": [
+        64,
+        32
+      ],
+      "loops": 490
+    },
+    "Foodtruck": {
+      "fileName": "../data/Foodtruck.mat",
+      "outputFileName": "../results/Foodtruck.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        32,
+        8
+      ],
+      "loops": 440
+    },
+    "Genbase": {
+      "fileName": "../data/Genbase.mat",
+      "outputFileName": "../results/Genbase.mat",
+      "kLabel": 4,
+      "hiddenLayerNumNodes": [
+        64
+      ],
+      "loops": 500
+    },
+    "GpositiveGO": {
+      "fileName": "../data/GpositiveGO.mat",
+      "outputFileName": "../results/GpositiveGO.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        32
+      ],
+      "loops": 470
+    },
+    "Image": {
+      "fileName": "../data/Image.mat",
+      "outputFileName": "../results/Image.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        128
+      ],
+      "loops": 480
+    },
+    "Medical": {
+      "fileName": "../data/Medical.mat",
+      "outputFileName": "../results/Medical.mat",
+      "kLabel": 5,
+      "hiddenLayerNumNodes": [
+        64
+      ],
+      "loops": 655
+    },
+    "Recreation": {
+      "fileName": "../data/Recreation.mat",
+      "outputFileName": "../results/Recreation.mat",
+      "kLabel": 4,
+      "hiddenLayerNumNodes": [
+        32
+      ],
+      "loops": 450
+    },
+    "ReutersK500": {
+      "fileName": "../data/ReutersK500.mat",
+      "outputFileName": "../results/ReutersK500.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        64
+      ],
+      "loops": 820
+    },
+    "Scene": {
+      "fileName": "../data/Scene.mat",
+      "outputFileName": "../results/Scene.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        128
+      ],
+      "loops": 260
+    },
+    "Tmc2007-500": {
+      "fileName": "../data/Tmc2007-500.mat",
+      "outputFileName": "../results/Tmc2007-500.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        64
+      ],
+      "loops": 400
+    },
+    "WaterQuality": {
+      "fileName": "../data/WaterQuality.mat",
+      "outputFileName": "../results/WaterQuality.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        128
+      ],
+      "loops": 1800
+    },
+    "Yeast": {
+      "fileName": "../data/Yeast.mat",
+      "outputFileName": "../results/Yeast.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        128
+      ],
+      "loops": 830
+    },
+    "Science": {
+      "fileName": "../data/Science.mat",
+      "outputFileName": "../results/Science.mat",
+      "kLabel": 3,
+      "hiddenLayerNumNodes": [
+        128
+      ],
+      "loops": 500
+    }
+  }
+}
